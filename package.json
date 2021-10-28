@@ -1,0 +1,15 @@
+{
+  "name": "time_calc_in_diff_timezones",
+  "version": "1.0.0",
+  "description": "convertion in different time zones",
+  "main": "JST_to_NST.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Biswash Dhungana",
+  "license": "ISC"
+}
